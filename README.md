@@ -1,4 +1,4 @@
-# 📂 GenAI Document Management System (DMS)
+# 📂 GenAI Document Management System 
 
 A powerful AI-driven system to *upload, extract, translate, summarize, and search documents* with ease.  
 Built with *FastAPI* and enhanced by *Gemini Flash 2.0 API* for advanced text intelligence.
